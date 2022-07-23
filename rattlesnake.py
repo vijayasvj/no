@@ -2,7 +2,7 @@ import sys
 import math
 import wave
 import struct
-from _curses import curses
+import curses
 import pyaudio
 import numpy as np
 import matplotlib.pyplot as plt
